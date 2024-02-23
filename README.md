@@ -27,7 +27,6 @@ The purpose of creating this web app is to predict the resort price based on the
   - MLOps_Assignment_Resort_Zhenyang_v2.ipynb
   - requirements.txt
   - resort_regression_zy.pkl
-  - README.md
 
 
 ## Prerequisites
@@ -37,7 +36,7 @@ The purpose of creating this web app is to predict the resort price based on the
 - install the pycaret library (pip install pycaret[full]) 
 - launch jupyter notebook from the correct mlops environment
 
-- on vscode, use back the same mlops environment and run the app.py and click on the link at the output and the flask web app should run locally (do not quit the run on vscode to make sure the web app can be run on the deployed web app)
+- on vscode, use back the same mlops environment and run the app.py and click on the link at the terminal and the flask web app should run locally
 
 
 
